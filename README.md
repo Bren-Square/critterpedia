@@ -24,7 +24,7 @@ If you use something like AWS Lambda or other systems, you are on your own. Fork
 #### Endpoints
 
 There are three endpoints
-- health `health`
+- health `/health`
 - fish `/fish`
 - bugs `/bugs`
 
