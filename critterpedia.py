@@ -40,3 +40,4 @@ class Bugs(Resource):
         bugs = Blist()
         final = iterate(mth, hr, bugs)
         return jsonify(final)
+
